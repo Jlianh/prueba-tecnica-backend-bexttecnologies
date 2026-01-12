@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\controllers\\departamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\controllers\\departamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\service\\implement\\departamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\service\\implement\\departamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\service\\implement\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\service\\implement\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\repository\\implement\\departamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\repository\\implement\\departamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\mapper\\implement\\departamentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\mapper\\implement\\departamentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\service\\implement\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\service\\implement\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\mapper\\implement\\cirtymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\mapper\\implement\\cirtymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\dto\\departamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\dto\\departamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\repository\\implement\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\repository\\implement\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\dto\\savecitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\dto\\savecitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\dto\\savecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\dto\\savecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\repository\\implement\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\repository\\implement\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\repository\\idepartamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\repository\\idepartamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\service\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\service\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\service\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\service\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\mapper\\icitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\mapper\\icitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\repository\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\repository\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|c:\\users\\hedi2\\source\\repos\\bxtgeography\\bxtgeography\\repository\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4ECDDC-AC5A-17AF-E71B-6060F01E7229}|BxtGeography\\BxtGeography.csproj|solutionrelative:bxtgeography\\repository\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentController.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Controllers\\DepartamentController.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Controllers\\DepartamentController.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Controllers\\DepartamentController.cs",
+              "RelativeToolTip": "BxtGeography\\Controllers\\DepartamentController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA0wEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T04:19:05.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "BxtGeography\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T04:12:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\Implement\\CountryService.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Service\\Implement\\CountryService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\Implement\\CountryService.cs",
+              "RelativeToolTip": "BxtGeography\\Service\\Implement\\CountryService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:00:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\Implement\\DepartamentRepository.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Repository\\Implement\\DepartamentRepository.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\Implement\\DepartamentRepository.cs",
+              "RelativeToolTip": "BxtGeography\\Repository\\Implement\\DepartamentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:46:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\Implement\\DepartamentService.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Service\\Implement\\DepartamentService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\Implement\\DepartamentService.cs",
+              "RelativeToolTip": "BxtGeography\\Service\\Implement\\DepartamentService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:02:06.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Controllers\\CityController.cs",
+              "RelativeToolTip": "BxtGeography\\Controllers\\CityController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwEEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:03:40.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Mapper\\Implement\\DepartamentMapper.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Mapper\\Implement\\DepartamentMapper.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Mapper\\Implement\\DepartamentMapper.cs",
+              "RelativeToolTip": "BxtGeography\\Mapper\\Implement\\DepartamentMapper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:21:20.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\Implement\\CityService.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Service\\Implement\\CityService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\Implement\\CityService.cs",
+              "RelativeToolTip": "BxtGeography\\Service\\Implement\\CityService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:55:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CirtyMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Mapper\\Implement\\CirtyMapper.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Mapper\\Implement\\CirtyMapper.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Mapper\\Implement\\CirtyMapper.cs",
+              "RelativeToolTip": "BxtGeography\\Mapper\\Implement\\CirtyMapper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:42:41.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartamentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\DepartamentDTO.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\DTO\\DepartamentDTO.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\DepartamentDTO.cs",
+              "RelativeToolTip": "BxtGeography\\DTO\\DepartamentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:24:21.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveCityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\SaveCityDTO.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\DTO\\SaveCityDTO.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\SaveCityDTO.cs",
+              "RelativeToolTip": "BxtGeography\\DTO\\SaveCityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:42:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\Implement\\CityRepository.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Repository\\Implement\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\Implement\\CityRepository.cs",
+              "RelativeToolTip": "BxtGeography\\Repository\\Implement\\CityRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:47:52.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveCountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\SaveCountryDTO.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\DTO\\SaveCountryDTO.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\SaveCountryDTO.cs",
+              "RelativeToolTip": "BxtGeography\\DTO\\SaveCountryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T00:25:46.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\CityDTO.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\DTO\\CityDTO.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\DTO\\CityDTO.cs",
+              "RelativeToolTip": "BxtGeography\\DTO\\CityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:26:23.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\Implement\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Repository\\Implement\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\Implement\\CountryRepository.cs",
+              "RelativeToolTip": "BxtGeography\\Repository\\Implement\\CountryRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:47:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDepartamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\IDepartamentRepository.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Repository\\IDepartamentRepository.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\IDepartamentRepository.cs",
+              "RelativeToolTip": "BxtGeography\\Repository\\IDepartamentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:47:18.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\ICityService.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Service\\ICityService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\ICityService.cs",
+              "RelativeToolTip": "BxtGeography\\Service\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:55:12.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\ICountryService.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Service\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Service\\ICountryService.cs",
+              "RelativeToolTip": "BxtGeography\\Service\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:02:52.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Program.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Program.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Program.cs",
+              "RelativeToolTip": "BxtGeography\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:16:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Repository\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\ICityRepository.cs",
+              "RelativeToolTip": "BxtGeography\\Repository\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:52:55.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Repository\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Repository\\ICountryRepository.cs",
+              "RelativeToolTip": "BxtGeography\\Repository\\ICountryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:52:50.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Mapper\\ICityMapper.cs",
+              "RelativeDocumentMoniker": "BxtGeography\\Mapper\\ICityMapper.cs",
+              "ToolTip": "C:\\Users\\hedi2\\source\\repos\\BxtGeography\\BxtGeography\\Mapper\\ICityMapper.cs",
+              "RelativeToolTip": "BxtGeography\\Mapper\\ICityMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T19:43:15.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
